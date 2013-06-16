@@ -1,2 +1,4 @@
 * Description
 This is a Phenny module for playing Blackjack over IRC.
+
+This module is functional, but there are bugs....
